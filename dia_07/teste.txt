@@ -1,0 +1,4 @@
+Era uma vez, em um lugar muito distante, existia um garoto que gostava de escrever códigos em python.
+
+Esse garoto tinha grande interesse em computação.
+
